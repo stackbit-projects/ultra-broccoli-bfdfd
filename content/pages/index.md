@@ -13,10 +13,7 @@ sections:
     title: About
     content: |
       A web blog about life, programming, psychology and other stuff....
-    actions:
-      - label: Contact Me
-        style: button
-        url: 'mailto:n16i9kita@gmail.com'
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
