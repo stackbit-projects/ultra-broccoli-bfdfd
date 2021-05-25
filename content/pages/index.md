@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Contact Me
         style: button
-        url: 'mailto:subscriptions169@example.com'
+        url: 'mailto:subscriptions169@gmail.com'
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
