@@ -15,7 +15,6 @@ sections:
       A web blog about life, programming, psychology and other stuff....
     actions:
       - label: Contact Me
-        url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
