@@ -30,9 +30,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-I am  currently pursing BTech in Computer Science & Engineering at IIT (BHU), Varanasi. I have just begun my journey into the software engineering field, so I am pretty much I am a Newbie. But that's Ok. 
+I am  currently pursing BTech in Computer Science & Engineering at IIT (BHU), Varanasi. I have just begun my journey into the software engineering field, so I am pretty much I am a Newbie. But that's Ok.
 
-I am currently working on a personal project -  a voice command based scientic calculator using kivy framework in python. Also, I like to make contributions in the open source world, and I am currently trying to contribute  majorly to  Sympy  ( Python Library for symbolic mathematics)
+I am currently working on a personal project -  a voice command based scientic calculator in python. Also, I like to make contributions in the open source world, and I am currently trying to contribute  majorly to  Sympy  ( Python Library for symbolic mathematics)
 
 I have an interest in psychology, and spend my time trying to explore the field more in my free time.
 
