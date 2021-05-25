@@ -11,11 +11,19 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am currently pursuing BTech in Computer Science & Engineering at IIT
+      BHU, Varanasi \[ Graduation year - 2023],
+
+
+      I have just begun my journey into the software development world, and I
+      thought why not document it....
+
+
+      So, here it is.....
+
+
+      Also, I will be writing blogs on some other topics related to psychology. 
     actions:
       - label: Contact Me
         url: /contact
