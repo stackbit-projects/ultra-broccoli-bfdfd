@@ -13,17 +13,15 @@ sections:
     title: About
     content: >
       I am currently pursuing BTech in Computer Science & Engineering at IIT
-      BHU, Varanasi \[ Graduation year - 2023],
-
-
-      I have just begun my journey into the software development world, and I
-      thought why not document it....
+      BHU, Varanasi \[ Graduation year - 2023],< br/>I have just begun my
+      journey into the software development world, and I thought why not
+      document it....
 
 
       So, here it is.....
 
 
-      Also, I will be writing blogs on some other topics related to psychology. 
+      Also, I will be writing blogs on some other topics related to psychology.
     actions:
       - label: Contact Me
         url: /contact
