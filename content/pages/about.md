@@ -34,6 +34,6 @@ I am  currently pursing BTech in Computer Science & Engineering at IIT (BHU), Va
 
 I am currently working on a personal project -  a voice command based scientic calculator in python. Also, I like to make contributions in the open source world, and I am currently trying to contribute  majorly to  Sympy  ( Python Library for symbolic mathematics)
 
-I have an interest in psychology, and spend my time trying to explore the field more in my free time.
+I have an interest in psychology, and spend my time trying to explore the field more in my free time. I am a lot concerned about the negative impact of technology ( consumer based digital buisnness directed at chidren), and what the research says is pretty scary.  I hope we can build a safer world for our children. 
 
-*Thank You for reading!*
+*Peace out.*
