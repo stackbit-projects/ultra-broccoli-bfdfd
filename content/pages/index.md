@@ -16,6 +16,7 @@ sections:
     actions:
       - label: Contact Me
         style: button
+        url: '<a href="mailto:webdesign@example.com">Send me an email</a> '
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
