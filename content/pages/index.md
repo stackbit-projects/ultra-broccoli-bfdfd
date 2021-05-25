@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I am Nikita'
     content: |+
-      Welcome to my personal blog website\<br/>
+      Welcome to my personal blog website\</br>
 
   - section_id: about
     type: section_content
